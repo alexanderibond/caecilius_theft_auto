@@ -1,0 +1,13 @@
+To launch a pixel game, break your project into these essential stages:
+
+Design your Core Loop: Define what the player does over and over again (e.g., jump on enemies,
+collect coins, and reach the flag).
+
+Create Placeholders: Start with simple blocks or shapes instead of detailed pixel art.
+You can swap in your custom art later.
+
+Build Levels: Use a Tilemap system to paint the background and ground platforms.
+
+Animate the Hero: Draw simple frame-by-frame animations (e.g., Idle, Run, Jump)
+on a sprite sheet and hook them to your character controller.
+
